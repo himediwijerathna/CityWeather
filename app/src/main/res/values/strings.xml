@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CityWeather</string>
+    <string name="api_key">525c30e890b57ea624ef16d6e2b4a347</string>
+</resources>
