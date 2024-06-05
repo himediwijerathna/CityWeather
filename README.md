@@ -28,6 +28,6 @@ Get your API key from OpenWeatherMap (https://openweathermap.org/api) and add it
 
 ## Before Searching
 
-![Before Searching](https://github.com/himediwijerathna/CityWeather/tree/main/Screenshots](https://github.com/himediwijerathna/CityWeather/blob/main/Screenshots/before_searching.jpg)
+![Before Searching](https://github.com/himediwijerathna/CityWeather/blob/main/Screenshots/before_searching.jpg)
 
 Developed by Himedi Wijerathna
