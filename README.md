@@ -18,9 +18,16 @@ API Key
 Get your API key from OpenWeatherMap (https://openweathermap.org/api) and add it to the project.
 
 ## Screenshots
+## Splash Screen
 
 ![Splash Screen View](https://github.com/himediwijerathna/CityWeather/blob/main/Screenshots/SplashScreen.jpg)
+
+## App View
+
 ![App View](https://github.com/himediwijerathna/CityWeather/blob/main/Screenshots/AppView.jpg)
-![Before Searching](https://github.com/himediwijerathna/CityWeather/tree/main/Screenshots)
+
+## Before Searching
+
+![Before Searching]([https://github.com/himediwijerathna/CityWeather/tree/main/Screenshots](https://github.com/himediwijerathna/CityWeather/blob/main/Screenshots/before_searching.jpg)
 
 Developed by Himedi Wijerathna
